@@ -74,15 +74,3 @@ para todas as outras instâncias de objeto. =end
 =end
 
 #Os tipos são: Int, Float, Fixnum, Bignum, Rational 
-
-
-#Faixas no Ruby
-
-#Intervalos de sequencia em Ruby
-
-1..10 #Cria o intervalo de 1 até 10
-1...10 #Cria o intervalo de 1 até 9
-
-intervalo = (1...11).to_a
-
-print(intervalo)

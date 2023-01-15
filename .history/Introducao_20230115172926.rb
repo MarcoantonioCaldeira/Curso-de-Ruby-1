@@ -83,6 +83,6 @@ para todas as outras instâncias de objeto. =end
 1..10 #Cria o intervalo de 1 até 10
 1...10 #Cria o intervalo de 1 até 9
 
-intervalo = (1...11).to_a
+intervalo = 1...11.to_a
 
 print(intervalo)
