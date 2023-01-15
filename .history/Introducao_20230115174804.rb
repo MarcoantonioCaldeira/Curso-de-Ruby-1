@@ -90,7 +90,7 @@ print(intervalo)
 
 #Craindo Arrays
 
-Days_of_Week = Array['Segunda','Terça','Quarta','Quinta','Sexta']
+Days_of_Week = Array.new(7, 'hoje')
 
 
 print(Days_of_Week[2])
