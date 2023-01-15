@@ -70,7 +70,4 @@ para todas as outras instâncias de objeto.=end
     Ao contrario de outras linguagens
     os numeros estão ligados a classes 
     e não a tipos primitivos como
-    em outras linguagens
-=end
-
-#Os tipos são: Int, Float, Fixnum, Bignum, Rational 
+    em outras linguagens 
