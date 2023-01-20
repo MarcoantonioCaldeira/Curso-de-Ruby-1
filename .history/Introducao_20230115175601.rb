@@ -1,6 +1,4 @@
 print "Olá Mundo com Ruby!!!"
-puts "Ola Mundo com Ruby!!!"
-
 
 #Esta linha é um comentario
 
@@ -32,8 +30,6 @@ d = 40
 #Strings
 nome = "Marco"
 sobrenome = "Caldeira"
-
-print("Ola meu nome é " + nome)
 
 #O mesmo resultado pode ser
 
@@ -102,9 +98,3 @@ print(Days_of_Week[2])
 print(Days_of_Week[2, 4])
 
 
-#Operadores em Ruby
-
-=beginOperadores de atribuição
-Operadores Matemáticos
-Operadores de Comparação
-Operadores bit a bit=end
