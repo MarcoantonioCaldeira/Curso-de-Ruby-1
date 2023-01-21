@@ -1,2 +1,10 @@
 # Curso-de-Ruby-1
-Introdução, Sintaxe e tipos primitivos da linguagem Ruby
+
+<h2>O que foi estudado nessa curso?</h2>
+
+* Sintaxe Basica
+
+* Variais
+
+* Tipos Primitivos
+
